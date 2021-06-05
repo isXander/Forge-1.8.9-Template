@@ -1,8 +1,8 @@
 [
 {
-  "modid": "modid",
-  "name": "isXander's  Mod",
-  "description": "",
+  "modid": "${modid}",
+  "name": "${name}",
+  "description": "${description}",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
